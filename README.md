@@ -27,7 +27,7 @@ return (
 	   <CodeBlock  code={code}  />
 	</>
     )
- }
+}
 export  default  App;
    ```
    <a href="https://imgbb.com/"><img src="https://i.ibb.co/gVrTCJN/Screenshot-from-2024-08-10-18-12-35.png" border="0"></a>
