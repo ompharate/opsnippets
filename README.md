@@ -19,7 +19,7 @@ return (
 <h1>My Code Snippet Example</h1>
 <CodeSnippet />
 </div>
-);
+  );
 };
 export default App;`
 return (
