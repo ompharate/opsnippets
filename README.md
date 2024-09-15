@@ -5,8 +5,6 @@
    ```
 
 # Usage
-
-
 ```javascript
 import { CodeBlock} from  "demo"
 function  App() {
